@@ -5,6 +5,7 @@ The comfy config file parser library.
 ``` c++
 #define COMFYG_IMPL
 #include "comfyg.hpp"
+#include <iostream>
 
 int main()
 {

@@ -1,5 +1,6 @@
 #define COMFYG_IMPL
 #include "comfyg.hpp"
+#include <iostream>
 
 int main()
 {
